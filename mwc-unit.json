@@ -6,6 +6,6 @@
   "pack" : "",
   "pe1" : 240,
   "pe2" : 500,
-  "status" : true,
+  "status" : false,
   "testMode" : false
 } ]
