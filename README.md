@@ -1,0 +1,1 @@
+# com.miniworld.craft.mania
